@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaunakN28
-- 👀 I’m interested in Artificial Intelligence and DevOps
+- 👀 I’m interested in Artificial Intelligence and Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on JavaScript, HTML and CSS
 - 📫 How to reach me ---> raunaknegi02@gmail.com
